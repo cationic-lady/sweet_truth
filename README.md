@@ -28,3 +28,7 @@ The Sweet Truth Detector works in two parts:
 * Tesseract OCR, OpenCV (Image Processing)
 * Jupyter Notebooks (Model Development)
 
+## Image Sources
+The images used in the notebooks `the_sweet_truth_detector.ipynb` and `ocr.ipynb` for testing are:  
+- **Self-Captured**: Images that I photographed for this project.  
+- **Open Food Facts**: Openly available food ingredient images from [Open Food Facts](https://world.openfoodfacts.org/). These images are used solely for demonstration purposes and align with Open Food Facts' terms of use.
